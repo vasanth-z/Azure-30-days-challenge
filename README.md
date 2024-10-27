@@ -1,8 +1,6 @@
  # Azure 30 Days Challenge
 
-## Objective
-- Host a static website using Azure Blob Storage’s static website hosting feature.
-- Implement versioning on the storage account to manage different versions of the website and roll back if needed.
+ "Azure 30 Days challenge" involves complete learning through Azure services and mastering to all different services, building and deploying applications, configuring and managing Azure resources.   
 
 ---
 
@@ -10,7 +8,7 @@
 
 1.[Host a static website using Azure Blob Storage’s static website hosting](https://github.com/vasanth-z/Azure-30-days-challenge/blob/62f2166b84effc22da6211671479ea97464d1137/Task-1)
 
-Objective
+### Objective
 - Host a static website using Azure Blob Storage’s static website hosting feature.
 - Implement versioning on the storage account to manage different versions of the website and roll back if needed.
 
