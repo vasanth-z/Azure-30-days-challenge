@@ -1,4 +1,4 @@
-https://github.com/vasanth-z/Azure-30-days-challenge
+#Azure 30 Days Challenge
 
 ## Objective
 - Host a static website using Azure Blob Storage’s static website hosting feature.
