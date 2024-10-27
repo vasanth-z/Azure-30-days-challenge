@@ -1,4 +1,4 @@
- # Azure 30 Days Challenge
+ **Azure 30 Days Challenge**
 
 ## Objective
 - Host a static website using Azure Blob Storage’s static website hosting feature.
@@ -6,8 +6,10 @@
 
 ---
 
-### 1. Set Up the Azure Storage Account
+### Task-1
 
-1.Task-1
+1.[Azure Blob Storage Static Website Hosting](https://github.com/vasanth-z/Azure-30-days-challenge/blob/62f2166b84effc22da6211671479ea97464d1137/Task-1)
+
+
 
 
