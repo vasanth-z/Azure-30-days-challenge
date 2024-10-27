@@ -78,8 +78,3 @@ This guide outlines the steps to host a static website using Azure Blob Storage'
 
 Your static website is now hosted on Azure Blob Storage with versioning enabled for easy rollback and version control.
 
---- 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
