@@ -8,7 +8,7 @@
 
 ### Task-1
 
-1.[Create a Azure Blob Storage Static Website Hosting](https://github.com/vasanth-z/Azure-30-days-challenge/blob/62f2166b84effc22da6211671479ea97464d1137/Task-1)
+1.[Host a static website using Azure Blob Storage’s static website hosting](https://github.com/vasanth-z/Azure-30-days-challenge/blob/62f2166b84effc22da6211671479ea97464d1137/Task-1)
 
 
 
