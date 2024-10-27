@@ -8,6 +8,6 @@
 
 ### 1. Set Up the Azure Storage Account
 
-1. **Login to Azure Portal**: Go to [https://portal.azure.com](https://portal.azure.com) and log in.
+1.Task-1
 
 
