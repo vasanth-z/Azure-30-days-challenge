@@ -36,17 +36,26 @@
    - Review settings on the final page.
    - Click **Create** to deploy the storage account.
 
-## Step 3: Configure Replication Rules for Data Synchronization
-1. **Access Geo-Replication Settings**  
-   - Go to **Storage Account** > **Data management** > **Geo-replication**.
+## Step 3 Creation a Containers
+1. **TO Create a container**  
+   - Go to **Storage Account** > **Data storage** > **container**.
+   - click on "+create" and name it as container1.
+  
 
-2. **Verify Paired Secondary Region**  
-   - Azure assigns a secondary region to your primary storage account.
-   - The data is replicated asynchronously to the secondary region for redundancy.
 
-## Step 4: Validate Data Replication
+2. **go to storage account2**  
+   - Go to **Storage Account** > **Data storage** > **container**.
+   - click on "+create" and name it as container2.
+  
+## Step 4 : Data Replication
+   -Go to **Storage Account1** > **Data Management** > **Object Replication**.
+   -click on "+create replication rules".
+   -Assign Destination account as "storage Account2".
+   -source conatiner as "container1" and destination container as "container2".(which to be stored in another account)
+
+## Step 5: Validate Data Replication
 1. **Upload a Test Blob**  
-   - In **primary storage account**, go to **Containers** and create a container (e.g., “testcontainer”).
+   - In **storage account1**, go to **Container1**.
    - Upload a test blob (e.g., .txt or .jpg file).
    - This blob is automatically replicated to the secondary region.
 
@@ -54,7 +63,7 @@
    - If **RA-GRS** was selected, you can access data in the secondary region via the **Secondary endpoint** URL:
      - Format: `https://<accountname>-secondary.blob.core.windows.net`.
 
-## Step 5: Monitor Replication and Configure Failover (If Necessary)
+## Step 6: Monitor Replication and Configure Failover (If Necessary)
 1. **Check Replication Status**  
    - In **Geo-replication**, monitor replication status for delays or issues.
 
