@@ -10,7 +10,7 @@
 
 ### Task-2
 
-2.Replicate Data within and between Azure Regions Using Azure Blob Storage
+2.[Replicate Data within and between Azure Regions Using Azure Blob Storage](https://github.com/vasanth-z/Azure-30-days-challenge/blob/491322cad3553a10572afac0a48148497037ac36/Task-2.md)
 
 
 
