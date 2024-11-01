@@ -14,7 +14,7 @@
 
 ### Task-3
 
-3.Launch and Manage an Azure Virtual Machine with SSH and Web Server Setup
+3.[Launch and Manage an Azure Virtual Machine with SSH and Web Server Setup](https://github.com/vasanth-z/Azure-30-days-challenge/blob/80a9256bc4cd3e07fc2232ff6499d99483175a58/Task-3.md)
 
 
 
