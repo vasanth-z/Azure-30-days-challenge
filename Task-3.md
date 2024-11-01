@@ -49,4 +49,8 @@
 ## 4.Install NGNIX
 
 ```bash
-sudo apt-get -y update 
+sudo apt-get -y update
+
+-Use this command for Update your Web server.
+
+
