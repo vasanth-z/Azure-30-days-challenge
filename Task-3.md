@@ -50,7 +50,7 @@
 
 ```bash
 sudo apt-get -y update
-bash```
+```
 
 -Use this command for Update your Web server.
 
