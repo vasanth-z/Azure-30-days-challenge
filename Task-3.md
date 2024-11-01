@@ -33,26 +33,26 @@
 
 ---
 
-## 2. SSH into the Instance
+### 2. SSH into the Instance
 
 1. In the Azure portal, go to **Virtual Machines** and select your VM.
 2. Under **Overview**, "+connect" and enter to "native SSH"
 3. Copy the path of SSH public key generated and enter to it.
 4. It assign the link and copy that.
 
-## 3.Run in Git Bash 
+### 3.Run in Git Bash 
 
 1.Open Gitbash and paste the command you copied.
 2.Then access the permssion if it asks give "yes".
 3.Finally you installed Ubuntu in your terminal.
 
-## 4.Install NGNIX
+### 4.Install NGNIX
 
 ```bash
 sudo apt-get -y update
 ```
 
--Use this command for Update your Web server.
+- Use this command for Update your Web server.
 
 ```bash
 sudo apt-get -y install ngnix
@@ -62,6 +62,12 @@ sudo apt-get -y install ngnix
   ```bash
   exit
   ```
+  
+### 5.RUN NGNIX WEB SERVER
+1.Now come to the virtual machine(VM) to the overview page.
+2.Copy the "public ip address" given.
+3.Paste it on the new tab and now see it.
+4. Your NGNIX web server will be running successfully!!.
   
 
 
