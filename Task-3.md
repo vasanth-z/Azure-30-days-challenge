@@ -36,7 +36,17 @@
 ## 2. SSH into the Instance
 
 1. In the Azure portal, go to **Virtual Machines** and select your VM.
-2. Under **Overview**, copy the **Public IP address** of your VM.
-3. Open a terminal on your local machine and enter:
-   ```bash
-   ssh <username>@<public-ip-address>
+2. Under **Overview**, "+connect" and enter to "native SSH"
+3. Copy the path of SSH public key generated and enter to it.
+4. It assign the link and copy that.
+
+## 3.Run in Git Bash 
+
+1.Open Gitbash and paste the command you copied.
+2.Then access the permssion if it asks give "yes".
+3.Finally you installed Ubuntu in your terminal.
+
+## 4.Install NGNIX
+
+```bash
+sudo apt-get -y update 
