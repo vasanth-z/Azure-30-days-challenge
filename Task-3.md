@@ -54,4 +54,14 @@ sudo apt-get -y update
 
 -Use this command for Update your Web server.
 
+```bash
+sudo apt-get -y install ngnix
+```
+- This command will install the NGNIX web server on your terminal.
+- After the completion run the command:
+  ```bash
+  exit
+  ```
+  
+
 
