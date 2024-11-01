@@ -64,6 +64,7 @@ sudo apt-get -y install ngnix
   ```
   
 ### 5.RUN NGNIX WEB SERVER
+
 1.Now come to the virtual machine(VM) to the overview page.
 2.Copy the "public ip address" given.
 3.Paste it on the new tab and now see it.
