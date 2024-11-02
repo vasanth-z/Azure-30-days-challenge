@@ -18,7 +18,7 @@
 
 ### Task-4
 
-4.[Setting up monitoring for an Azure Virtual Machine (VM) using Azure Monitor, creating a CPU usage alert, and triggering the alert]
+4.[Setting up monitoring for an Azure Virtual Machine (VM) using Azure Monitor, creating a CPU usage alert, and triggering the alert](https://github.com/vasanth-z/Azure-30-days-challenge/blob/930d77c691ab703517c0f6e6d5e4b6d83681bf59/Task-4.md)
 
 
 
