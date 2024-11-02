@@ -16,6 +16,10 @@
 
 3.[Launch and Manage an Azure Virtual Machine with SSH and Web Server Setup](https://github.com/vasanth-z/Azure-30-days-challenge/blob/80a9256bc4cd3e07fc2232ff6499d99483175a58/Task-3.md)
 
+### Task-4
+
+4.[Setting up monitoring for an Azure Virtual Machine (VM) using Azure Monitor, creating a CPU usage alert, and triggering the alert]
+
 
 
 
