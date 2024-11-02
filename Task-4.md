@@ -1,4 +1,5 @@
-## Azure Monitor
+## Set up monitoring for a Virtual Machine (VM) using Azure Monitor, create a CPU usage alert, and trigger the alert.
+
 
 ### Overview
 Azure Monitor is a comprehensive solution to monitor and manage the performance and availability of your resources in Azure. It helps you gain insights into your applications, infrastructure, and network by collecting, analyzing, and acting on telemetry data.
