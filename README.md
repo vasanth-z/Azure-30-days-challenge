@@ -20,6 +20,10 @@
 
 4.[Setting up monitoring for an Azure Virtual Machine (VM) using Azure Monitor, creating a CPU usage alert, and triggering the alert](https://github.com/vasanth-z/Azure-30-days-challenge/blob/930d77c691ab703517c0f6e6d5e4b6d83681bf59/Task-4.md)
 
+### Task-5
+
+5.[Managing Identities, Permissions, and Access Control using Azure CLI](https://github.com/vasanth-z/Azure-30-days-challenge/blob/fa92b1d353814c24e494edd45fa87206c35269d9/Task-5.md)
+
 
 
 
