@@ -1,4 +1,4 @@
-# Creating a Snapshot of the VM & creating VM from VHD give in steps and in markdown text format
+# Creating a Snapshot of the VM & creating VM from VHD
 
 ----
 ## Step 1: Create a Snapshot of the VM
