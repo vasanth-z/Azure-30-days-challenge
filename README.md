@@ -24,6 +24,10 @@
 
 5.[Managing Identities, Permissions, and Access Control using Azure CLI](https://github.com/vasanth-z/Azure-30-days-challenge/blob/fa92b1d353814c24e494edd45fa87206c35269d9/Task-5.md)
 
+### Task-6
+
+6.[Creating a Snapshot of the VM & creating VM from VHD](https://github.com/vasanth-z/Azure-30-days-challenge/blob/8bfd3f4308bf79466877d42373cfee8a998b33ba/Task-6.md)
+
 
 
 
