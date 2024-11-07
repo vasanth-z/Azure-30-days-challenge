@@ -28,6 +28,10 @@
 
 6.[Creating a Snapshot of the VM & creating VM from VHD](https://github.com/vasanth-z/Azure-30-days-challenge/blob/8bfd3f4308bf79466877d42373cfee8a998b33ba/Task-6.md)
 
+### Task-7
+
+7.[Guide to Setting Up Azure Communication Services for Sending a Test Email](https://github.com/vasanth-z/Azure-30-days-challenge/blob/d7e6d727f251fc7e6986cfcd665c5b26e2cb5d89/Task-7.md)
+
 
 
 
