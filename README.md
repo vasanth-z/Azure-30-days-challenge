@@ -32,6 +32,10 @@
 
 7.[Guide to Setting Up Azure Communication Services for Sending a Test Email](https://github.com/vasanth-z/Azure-30-days-challenge/blob/d7e6d727f251fc7e6986cfcd665c5b26e2cb5d89/Task-7.md)
 
+### Task-8
+
+8.[Steps to create a Site-to-Site VPN](https://github.com/vasanth-z/Azure-30-days-challenge/blob/f0afbd93819285b9f1e6c16a701a007dc8c23304/Task-8.md)
+
 
 
 
