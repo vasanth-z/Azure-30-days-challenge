@@ -36,6 +36,9 @@
 
 8.[Steps to create a Site-to-Site VPN](https://github.com/vasanth-z/Azure-30-days-challenge/blob/f0afbd93819285b9f1e6c16a701a007dc8c23304/Task-8.md)
 
+### Task-9
+
+9.[Connecting Virtual Machine Through Azure Bastion Connection](https://github.com/vasanth-z/Azure-30-days-challenge/blob/5bc8c81e258753e9d42e6cef9bbd5959e279e3af/Task-9.md)
 
 
 
