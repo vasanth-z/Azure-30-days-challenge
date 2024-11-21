@@ -40,6 +40,10 @@
 
 9.[Connecting Virtual Machine Through Azure Bastion Connection](https://github.com/vasanth-z/Azure-30-days-challenge/blob/5bc8c81e258753e9d42e6cef9bbd5959e279e3af/Task-9.md)
 
+### Task-10
+
+10.[ Connecting Azure Logic Apps to a Firewall-Protected Resource](
+
 
 
 
