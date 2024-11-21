@@ -42,8 +42,7 @@
 
 ### Task-10
 
-10.[ Connecting Azure Logic Apps to a Firewall-Protected Resource](
-
+10.[ Connecting Azure Logic Apps to a Firewall-Protected Resource](https://github.com/vasanth-z/Azure-30-days-challenge/blob/72af4114e5285ae0d6468c07797b788e826dbce0/Task-%2010.md)
 
 
 
