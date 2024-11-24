@@ -44,5 +44,9 @@
 
 10.[ Connecting Azure Logic Apps to a Firewall-Protected Resource](https://github.com/vasanth-z/Azure-30-days-challenge/blob/72af4114e5285ae0d6468c07797b788e826dbce0/Task-%2010.md)
 
+### Task-11
+
+11.[Azure Cost Management and Budget Alerts: Step-by-Step Guide](https://github.com/vasanth-z/Azure-30-days-challenge/blob/00a553d63e05e280b552f1cdc227a72289c1a419/Task-11.md)
+
 
 
