@@ -48,5 +48,9 @@
 
 11.[Azure Cost Management and Budget Alerts: Step-by-Step Guide](https://github.com/vasanth-z/Azure-30-days-challenge/blob/00a553d63e05e280b552f1cdc227a72289c1a419/Task-11.md)
 
+### Task-12
+
+12.[Adding A Data Disk to Virutal Machine](https://github.com/vasanth-z/Azure-30-days-challenge/blob/0411f0347e721240d8144ff02107968425d3ab8b/Task-12.md)
+
 
 
