@@ -52,5 +52,7 @@
 
 12.[Adding A Data Disk to Virutal Machine](https://github.com/vasanth-z/Azure-30-days-challenge/blob/0411f0347e721240d8144ff02107968425d3ab8b/Task-12.md)
 
+### Task-13
 
+13. [](https://github.com/vasanth-z/Azure-30-days-challenge/blob/9ebbdd1b63cbf3d3f905370f1808e19670ea6d9f/task-13.md)
 
