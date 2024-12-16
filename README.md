@@ -56,3 +56,6 @@
 
 13. [Azure Functions Hands-On Task: Creating a Serverless Function using Blob trigger](https://github.com/vasanth-z/Azure-30-days-challenge/blob/9ebbdd1b63cbf3d3f905370f1808e19670ea6d9f/task-13.md)
 
+### Task-14
+
+14. [Creating and Configuration on Azure Data Factory](https://github.com/vasanth-z/Azure-30-days-challenge/blob/ec0412f9a8723bc41818835a63c41356f4eed9a8/Task-14.md)
