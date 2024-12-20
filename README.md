@@ -59,3 +59,8 @@
 ### Task-14
 
 14. [Creating and Configuration on Azure Data Factory](https://github.com/vasanth-z/Azure-30-days-challenge/blob/ec0412f9a8723bc41818835a63c41356f4eed9a8/Task-14.md)
+
+### Task-15
+
+15.[Setting and Using Azure DataBricks](https://github.com/vasanth-z/Azure-30-days-challenge/blob/7d1a92a3688871fb44c6cd9515999c93e6bf1d78/Task-15.md)
+
