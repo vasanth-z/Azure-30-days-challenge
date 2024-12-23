@@ -70,4 +70,4 @@
 
 ### Task-17
 
-17. [Creating Azure Machine Learning Workspace](
+17. [Creating Azure Machine Learning Workspace](https://github.com/vasanth-z/Azure-30-days-challenge/blob/9538cc0be9a8656d1148c4d3ba48aedcee7b0458/Task-17.md)
