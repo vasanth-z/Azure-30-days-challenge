@@ -68,3 +68,6 @@
 
 16.[Immutable Backup for Ransomware Protection in Azure Recovery Services Vault](https://github.com/vasanth-z/Azure-30-days-challenge/blob/2db97e76e4a1d9de6574237d61d46dc2840dda78/Task-16.md)
 
+### Task-17
+
+17. [Creating Azure Machine Learning Workspace](
