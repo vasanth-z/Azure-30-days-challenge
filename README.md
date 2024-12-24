@@ -71,3 +71,8 @@
 ### Task-17
 
 17. [Creating Azure Machine Learning Workspace](https://github.com/vasanth-z/Azure-30-days-challenge/blob/9538cc0be9a8656d1148c4d3ba48aedcee7b0458/Task-17.md)
+
+### Task-18
+
+18. [Setting Up Azure Sentinel for Security Information and Event Management (SIEM)](https://github.com/vasanth-z/Azure-30-days-challenge/blob/6d1291edf0d90d1d877fb0f8ae4e4dcb278cfe02/Task-18.md)
+
