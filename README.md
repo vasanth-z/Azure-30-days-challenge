@@ -76,3 +76,6 @@
 
 18. [Setting Up Azure Sentinel for Security Information and Event Management (SIEM)](https://github.com/vasanth-z/Azure-30-days-challenge/blob/6d1291edf0d90d1d877fb0f8ae4e4dcb278cfe02/Task-18.md)
 
+### Task-19
+
+19. [Automating Configuration Management with Azure Arc](https://github.com/vasanth-z/Azure-30-days-challenge/blob/aa091ada758b41f23b1ba1aeb985772e232b214a/Task-19.md)
