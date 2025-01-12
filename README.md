@@ -79,3 +79,7 @@
 ### Task-19
 
 19. [Automating Configuration Management with Azure Arc](https://github.com/vasanth-z/Azure-30-days-challenge/blob/aa091ada758b41f23b1ba1aeb985772e232b214a/Task-19.md)
+
+### Task-20
+
+20.[Azure Table Storage with Logic App Integration](https://github.com/vasanth-z/Azure-30-days-challenge/blob/37b352342771aba95f1524121709722052349826/Task-20.md)
