@@ -83,3 +83,7 @@
 ### Task-20
 
 20.[Azure Table Storage with Logic App Integration](https://github.com/vasanth-z/Azure-30-days-challenge/blob/37b352342771aba95f1524121709722052349826/Task-20.md)
+
+### Task-21
+
+21.[CONFIGURING AND ASSIGNING THE BLUEPRINT IN AZURE PORTAL](https://github.com/vasanth-z/Azure-30-days-challenge/blob/c10fe0362d23130ddc43d369ff016e90736198eb/Task-21.md)
