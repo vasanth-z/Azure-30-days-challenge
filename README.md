@@ -87,3 +87,8 @@
 ### Task-21
 
 21.[CONFIGURING AND ASSIGNING THE BLUEPRINT IN AZURE PORTAL](https://github.com/vasanth-z/Azure-30-days-challenge/blob/c10fe0362d23130ddc43d369ff016e90736198eb/Task-21.md)
+
+### Task-22
+
+22. [Exploring Azure DevOps: A Hands-On Experience 🌟
+](https://github.com/vasanth-z/Azure-30-days-challenge/blob/9c41be3a862426287ddc5e318a54ff1d23e4b07b/Task-22.md)
