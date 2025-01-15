@@ -92,3 +92,7 @@
 
 22. [Exploring Azure DevOps: A Hands-On Experience 🌟
 ](https://github.com/vasanth-z/Azure-30-days-challenge/blob/9c41be3a862426287ddc5e318a54ff1d23e4b07b/Task-22.md)
+
+### Task-23
+
+23.[Azure Web Apps Proof of Concept (POC): Complete Step-by-Step Procedure](https://github.com/vasanth-z/Azure-30-days-challenge/blob/8cffc980437eaf0ed3736e9c4a3505dc6ab39e77/Task-23.md)
